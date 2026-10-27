@@ -1,0 +1,6 @@
+algorithm,total_trials,successful_trials,failed_trials,detection_rate_pct,mean_steps_to_detection,mean_distance_all_trials,mean_battery_consumed_pct,mean_coverage_pct,mean_cells_visited_all_trials,mean_computation_ms_all_trials,benchmark_seed,num_trials,max_steps_per_trial,generated_at_utc
+Best-First,100,75,25,75.0,68.5733,93.62,49.732,43.7507,173.75,41.383,42,100,400,2026-10-27T055354Z
+Beam Search,100,73,27,73.0,74.4658,99.78,52.88,46.9656,185.97,119.779,42,100,400,2026-10-27T055354Z
+Hill Climb,100,70,30,70.0,64.8286,98.35,49.632,42.0941,166.86,211.8781,42,100,400,2026-10-27T055354Z
+A* Belief,100,80,20,80.0,74.3625,92.46,50.118,47.4592,189.78,231.3976,42,100,400,2026-10-27T055354Z
+Genetic Alg,100,81,19,81.0,75.2963,93.3,49.424,45.9612,182.51,69.5293,42,100,400,2026-10-27T055354Z

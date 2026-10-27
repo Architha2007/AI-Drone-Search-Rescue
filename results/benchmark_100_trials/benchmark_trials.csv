@@ -1,0 +1,501 @@
+algorithm,trial_seed,detected,steps_to_detection,distance_traveled,battery_consumed_pct,coverage_pct,cells_visited,computation_time_ms,termination_reason
+Best-First,670488,True,80,80,40.0,29.375,124,36.656,Target detected at step 80.
+Best-First,116740,True,1,1,0.4,1.8809,6,0.6937,Target detected at step 1.
+Best-First,26226,True,34,34,16.4,15.0,58,13.4449,Target detected at step 34.
+Best-First,777573,True,153,153,78.6,69.375,276,69.0041,Target detected at step 153.
+Best-First,288390,True,132,132,67.4,73.4824,286,53.6387,Target detected at step 132.
+Best-First,256788,True,8,8,4.6,4.375,19,3.4323,Target detected at step 8.
+Best-First,234054,True,140,140,76.0,52.322,211,55.1073,Target detected at step 140.
+Best-First,146317,True,1,1,0.4,1.8868,6,0.63,Target detected at step 1.
+Best-First,772247,True,6,6,2.6,5.3125,19,2.7572,Target detected at step 6.
+Best-First,107474,True,132,132,73.8,55.4517,231,54.8855,Target detected at step 132.
+Best-First,709571,True,124,124,65.4,61.8012,246,62.7215,Target detected at step 124.
+Best-First,776647,False,,172,89.8,84.7619,326,74.0006,Battery at safety reserve. Mission terminated.
+Best-First,935519,False,,173,89.4,84.5912,344,72.4847,Battery would fall below 10% reserve. Halting.
+Best-First,571859,False,,173,89.6,74.6875,295,76.0765,Battery at safety reserve. Mission terminated.
+Best-First,91162,True,21,21,10.0,14.375,57,16.4124,Target detected at step 21.
+Best-First,619177,True,11,11,6.6,9.6875,36,5.4729,Target detected at step 11.
+Best-First,442418,True,118,118,59.6,61.8297,236,53.0239,Target detected at step 118.
+Best-First,33327,True,119,119,60.8,68.652,268,55.8949,Target detected at step 119.
+Best-First,31245,True,17,17,7.8,10.9718,42,10.2431,Target detected at step 17.
+Best-First,98247,True,16,16,9.2,8.4639,35,7.4703,Target detected at step 16.
+Best-First,229259,True,7,7,3.6,5.625,22,3.1965,Target detected at step 7.
+Best-First,243963,False,,169,89.4,69.0625,277,83.5963,Battery would fall below 10% reserve. Halting.
+Best-First,529904,False,,161,89.4,65.9375,263,65.7637,Battery would fall below 10% reserve. Halting.
+Best-First,631263,True,90,90,48.8,42.9467,175,37.5609,Target detected at step 90.
+Best-First,27825,True,53,53,30.2,25.0784,102,24.3245,Target detected at step 53.
+Best-First,588509,False,,167,89.8,87.0253,344,72.8814,Battery at safety reserve. Mission terminated.
+Best-First,208497,False,,169,89.6,70.2194,273,80.1677,Battery at safety reserve. Mission terminated.
+Best-First,750801,True,164,164,88.4,73.75,289,69.3097,Target detected at step 164.
+Best-First,681454,False,,171,89.8,70.0,280,77.5881,Battery at safety reserve. Mission terminated.
+Best-First,735393,True,15,15,8.4,10.9034,47,7.4614,Target detected at step 15.
+Best-First,571413,True,31,31,17.0,20.3762,74,15.1338,Target detected at step 31.
+Best-First,439899,True,25,25,14.0,15.3125,59,11.4822,Target detected at step 25.
+Best-First,231149,False,,174,89.6,88.75,358,83.614,Battery at safety reserve. Mission terminated.
+Best-First,471030,True,99,99,53.8,49.6855,204,39.3376,Target detected at step 99.
+Best-First,617890,True,7,7,3.8,4.4025,18,3.3882,Target detected at step 7.
+Best-First,291705,True,98,98,52.2,51.0972,206,39.0379,Target detected at step 98.
+Best-First,848750,True,83,83,44.2,44.7619,174,34.9131,Target detected at step 83.
+Best-First,911528,True,124,124,63.6,66.1442,259,53.6066,Target detected at step 124.
+Best-First,6815,True,14,14,7.8,10.559,42,8.4626,Target detected at step 14.
+Best-First,795668,True,72,72,37.8,35.0,142,38.0009,Target detected at step 72.
+Best-First,844963,True,68,68,36.8,38.125,141,28.7995,Target detected at step 68.
+Best-First,167415,True,51,51,25.6,30.4348,119,21.9579,Target detected at step 51.
+Best-First,732053,True,88,88,48.4,42.6332,170,34.5366,Target detected at step 88.
+Best-First,443144,True,44,44,23.0,20.0,79,20.0768,Target detected at step 44.
+Best-First,356779,True,73,73,40.4,31.1321,136,30.0403,Target detected at step 73.
+Best-First,291370,False,,162,89.4,55.3398,213,61.4698,Battery would fall below 10% reserve. Halting.
+Best-First,163033,True,82,82,42.2,36.7925,147,41.9458,Target detected at step 82.
+Best-First,225773,True,59,59,32.6,29.6875,126,24.3545,Target detected at step 59.
+Best-First,800582,True,144,144,74.6,76.1006,300,62.7172,Target detected at step 144.
+Best-First,352945,True,21,21,11.4,13.522,52,11.3322,Target detected at step 21.
+Best-First,107176,False,,165,89.8,70.7547,277,73.788,Battery at safety reserve. Mission terminated.
+Best-First,97252,True,145,145,79.0,66.6667,263,66.5302,Target detected at step 145.
+Best-First,398383,True,136,136,70.6,63.2911,244,63.8227,Target detected at step 136.
+Best-First,101415,True,93,93,52.6,44.0,167,39.0908,Target detected at step 93.
+Best-First,376418,True,144,144,75.8,57.8616,228,62.9645,Target detected at step 144.
+Best-First,888663,True,65,65,33.6,34.1693,131,30.2359,Target detected at step 65.
+Best-First,360664,False,,168,89.4,72.5,298,83.3749,Battery would fall below 10% reserve. Halting.
+Best-First,633053,True,22,22,12.0,13.3956,53,11.1725,Target detected at step 22.
+Best-First,277371,True,23,23,13.6,12.5,54,10.3468,Target detected at step 23.
+Best-First,846336,False,,166,89.8,78.1931,306,77.7084,Battery at safety reserve. Mission terminated.
+Best-First,45562,False,,169,89.6,66.6667,272,75.6821,Battery at safety reserve. Mission terminated.
+Best-First,765180,True,38,38,19.6,18.0952,70,16.5084,Target detected at step 38.
+Best-First,481742,False,,172,89.6,72.7273,276,82.6204,Battery at safety reserve. Mission terminated.
+Best-First,562276,True,100,100,54.4,45.9119,192,41.9474,Target detected at step 100.
+Best-First,130890,True,82,82,43.2,43.9252,177,36.9567,Target detected at step 82.
+Best-First,967097,False,,168,89.6,77.5,309,73.9145,Battery at safety reserve. Mission terminated.
+Best-First,396923,True,19,19,9.2,11.0759,39,7.8627,Target detected at step 19.
+Best-First,82628,False,,172,89.6,73.6025,297,84.9742,Battery at safety reserve. Mission terminated.
+Best-First,578857,True,95,95,53.2,36.25,153,40.5357,Target detected at step 95.
+Best-First,307420,True,4,4,1.8,2.4845,10,1.8404,Target detected at step 4.
+Best-First,869694,True,84,84,47.2,50.4673,198,40.1135,Target detected at step 84.
+Best-First,659177,True,159,159,85.6,70.0,277,70.6511,Target detected at step 159.
+Best-First,648565,False,,167,89.6,76.5823,301,85.0139,Battery at safety reserve. Mission terminated.
+Best-First,928464,False,,169,89.8,76.875,311,71.5495,Battery at safety reserve. Mission terminated.
+Best-First,903566,False,,166,89.6,65.5172,259,73.565,Battery at safety reserve. Mission terminated.
+Best-First,379202,False,,169,89.6,74.5283,296,78.7493,Battery at safety reserve. Mission terminated.
+Best-First,605398,True,36,36,19.8,19.0625,75,16.9911,Target detected at step 36.
+Best-First,201630,False,,166,89.8,80.6854,322,65.6341,Battery at safety reserve. Mission terminated.
+Best-First,738798,True,154,154,82.6,63.8095,263,60.6625,Target detected at step 154.
+Best-First,72934,False,,163,89.8,73.75,298,69.4979,Battery at safety reserve. Mission terminated.
+Best-First,48051,True,126,126,67.0,68.7697,267,56.3165,Target detected at step 126.
+Best-First,693385,True,68,68,35.8,30.4075,119,31.5444,Target detected at step 68.
+Best-First,238969,True,15,15,8.8,11.25,42,9.8498,Target detected at step 15.
+Best-First,810621,True,77,77,40.8,35.3125,138,34.4049,Target detected at step 77.
+Best-First,303446,True,27,27,14.2,13.75,56,11.6267,Target detected at step 27.
+Best-First,83668,True,91,91,46.0,51.0903,196,42.0365,Target detected at step 91.
+Best-First,896866,False,,174,89.4,82.5,325,84.1287,Battery would fall below 10% reserve. Halting.
+Best-First,244099,True,1,1,0.4,1.8809,6,0.6108,Target detected at step 1.
+Best-First,908574,True,68,68,35.8,40.9375,167,32.1708,Target detected at step 68.
+Best-First,105908,True,5,5,2.0,5.3968,18,2.3851,Target detected at step 5.
+Best-First,398592,True,100,100,55.2,26.7913,113,44.7042,Target detected at step 100.
+Best-First,291477,True,3,3,1.2,3.1348,11,2.4054,Target detected at step 3.
+Best-First,475436,True,21,21,11.4,13.354,47,10.2439,Target detected at step 21.
+Best-First,666564,True,29,29,16.2,20.0,82,13.3923,Target detected at step 29.
+Best-First,874629,True,20,20,11.4,9.7179,39,8.3207,Target detected at step 20.
+Best-First,382555,True,153,153,82.4,66.5625,266,66.9953,Target detected at step 153.
+Best-First,170556,True,149,149,77.8,61.875,250,66.3022,Target detected at step 149.
+Best-First,388163,True,142,142,71.2,63.75,254,57.1399,Target detected at step 142.
+Best-First,372529,True,24,24,13.4,14.1509,57,12.4269,Target detected at step 24.
+Best-First,219685,False,,174,89.4,72.8972,294,78.8701,Battery would fall below 10% reserve. Halting.
+Beam Search,670488,True,104,104,57.0,50.9375,191,168.0514,Target detected at step 104.
+Beam Search,116740,True,1,1,0.4,1.8809,6,6.3338,Target detected at step 1.
+Beam Search,26226,False,,176,89.6,74.0625,290,187.9305,Battery at safety reserve. Mission terminated.
+Beam Search,777573,False,,164,89.6,77.1875,310,228.8325,Battery at safety reserve. Mission terminated.
+Beam Search,288390,True,19,19,8.6,15.9744,56,11.5154,Target detected at step 19.
+Beam Search,256788,False,,166,89.8,75.3125,296,203.3716,Battery at safety reserve. Mission terminated.
+Beam Search,234054,True,49,49,25.2,31.2693,115,72.4229,Target detected at step 49.
+Beam Search,146317,True,1,1,0.4,1.8868,6,5.7145,Target detected at step 1.
+Beam Search,772247,True,6,6,2.6,5.3125,19,6.9787,Target detected at step 6.
+Beam Search,107474,True,113,113,60.0,55.4517,223,130.3797,Target detected at step 113.
+Beam Search,709571,True,73,73,37.4,40.9938,159,84.6661,Target detected at step 73.
+Beam Search,776647,True,168,168,86.6,72.6984,289,192.5096,Target detected at step 168.
+Beam Search,935519,False,,179,89.8,75.1572,304,196.1784,Battery at safety reserve. Mission terminated.
+Beam Search,571859,True,102,102,52.8,47.8125,196,111.9163,Target detected at step 102.
+Beam Search,91162,True,150,150,82.2,75.3125,302,206.7276,Target detected at step 150.
+Beam Search,619177,True,8,8,3.8,6.875,24,7.4982,Target detected at step 8.
+Beam Search,442418,True,141,141,73.0,62.1451,243,177.2785,Target detected at step 141.
+Beam Search,33327,True,96,96,49.0,46.7085,185,109.8742,Target detected at step 96.
+Beam Search,31245,False,,166,89.6,75.8621,307,189.9226,Battery at safety reserve. Mission terminated.
+Beam Search,98247,True,12,12,7.0,8.4639,35,8.6149,Target detected at step 12.
+Beam Search,229259,True,148,148,80.8,68.125,279,204.6393,Target detected at step 148.
+Beam Search,243963,False,,166,89.8,82.1875,323,198.4502,Battery at safety reserve. Mission terminated.
+Beam Search,529904,False,,160,89.4,60.0,242,167.2229,Battery would fall below 10% reserve. Halting.
+Beam Search,631263,True,74,74,40.0,36.9906,159,97.3192,Target detected at step 74.
+Beam Search,27825,True,120,120,63.8,59.5611,237,198.4504,Target detected at step 120.
+Beam Search,588509,True,143,143,77.6,69.9367,270,188.2753,Target detected at step 143.
+Beam Search,208497,True,13,13,6.6,10.3448,39,10.3966,Target detected at step 13.
+Beam Search,750801,True,96,96,51.8,45.625,184,96.149,Target detected at step 96.
+Beam Search,681454,False,,171,89.8,76.875,305,169.1522,Battery at safety reserve. Mission terminated.
+Beam Search,735393,True,148,148,79.0,72.5857,296,192.4917,Target detected at step 148.
+Beam Search,571413,False,,168,89.8,64.8903,264,172.4446,Battery at safety reserve. Mission terminated.
+Beam Search,439899,True,77,77,42.6,46.5625,181,102.4766,Target detected at step 77.
+Beam Search,231149,False,,171,89.6,70.3125,277,200.0267,Battery at safety reserve. Mission terminated.
+Beam Search,471030,True,89,89,47.8,51.5723,198,104.8116,Target detected at step 89.
+Beam Search,617890,True,5,5,2.6,3.7736,14,7.159,Target detected at step 5.
+Beam Search,291705,True,80,80,40.4,49.5298,199,109.4856,Target detected at step 80.
+Beam Search,848750,False,,169,89.6,75.2381,298,200.1874,Battery at safety reserve. Mission terminated.
+Beam Search,911528,True,56,56,29.8,34.4828,133,78.9098,Target detected at step 56.
+Beam Search,6815,False,,165,89.4,71.4286,278,199.4254,Battery would fall below 10% reserve. Halting.
+Beam Search,795668,True,76,76,39.8,43.4375,174,91.9449,Target detected at step 76.
+Beam Search,844963,True,129,129,69.8,55.625,227,155.2058,Target detected at step 129.
+Beam Search,167415,True,7,7,2.8,5.5901,21,7.4853,Target detected at step 7.
+Beam Search,732053,False,,164,89.6,60.1881,241,162.4005,Battery at safety reserve. Mission terminated.
+Beam Search,443144,True,89,89,49.2,36.5625,150,111.5238,Target detected at step 89.
+Beam Search,356779,True,78,78,40.6,50.3145,190,81.0976,Target detected at step 78.
+Beam Search,291370,False,,167,89.4,64.7249,245,153.0257,Battery would fall below 10% reserve. Halting.
+Beam Search,163033,True,100,100,49.0,57.5472,216,151.3633,Target detected at step 100.
+Beam Search,225773,True,52,52,26.2,34.6875,131,72.9055,Target detected at step 52.
+Beam Search,800582,True,98,98,49.8,44.0252,181,104.4549,Target detected at step 98.
+Beam Search,352945,False,,165,89.8,74.8428,295,198.3297,Battery at safety reserve. Mission terminated.
+Beam Search,107176,True,40,40,20.2,24.5283,93,58.6918,Target detected at step 40.
+Beam Search,97252,True,78,78,40.4,35.8491,146,112.3187,Target detected at step 78.
+Beam Search,398383,False,,172,89.8,77.5316,312,188.5399,Battery at safety reserve. Mission terminated.
+Beam Search,101415,True,19,19,9.4,12.3333,43,11.2159,Target detected at step 19.
+Beam Search,376418,True,32,32,16.0,22.6415,77,41.6224,Target detected at step 32.
+Beam Search,888663,True,132,132,68.4,54.8589,221,148.2033,Target detected at step 132.
+Beam Search,360664,True,110,110,58.6,48.125,192,117.0192,Target detected at step 110.
+Beam Search,633053,True,13,13,6.6,9.3458,39,12.0632,Target detected at step 13.
+Beam Search,277371,True,6,6,3.4,5.3125,21,7.2687,Target detected at step 6.
+Beam Search,846336,False,,168,89.8,82.243,331,245.1639,Battery at safety reserve. Mission terminated.
+Beam Search,45562,False,,169,89.6,63.8629,257,125.0876,Battery at safety reserve. Mission terminated.
+Beam Search,765180,True,99,99,53.8,48.8889,196,113.471,Target detected at step 99.
+Beam Search,481742,False,,170,89.4,75.0,292,230.3958,Battery would fall below 10% reserve. Halting.
+Beam Search,562276,True,61,61,31.8,38.9937,154,102.9794,Target detected at step 61.
+Beam Search,130890,True,66,66,35.0,43.3022,174,50.6141,Target detected at step 66.
+Beam Search,967097,True,126,126,68.8,55.9375,232,193.1713,Target detected at step 126.
+Beam Search,396923,True,142,142,75.2,60.7595,242,202.5324,Target detected at step 142.
+Beam Search,82628,False,,171,89.4,63.354,256,192.799,Battery would fall below 10% reserve. Halting.
+Beam Search,578857,True,111,111,55.8,56.5625,219,107.1355,Target detected at step 111.
+Beam Search,307420,True,2,2,0.8,2.1739,8,5.9701,Target detected at step 2.
+Beam Search,869694,True,147,147,80.4,57.0093,231,177.342,Target detected at step 147.
+Beam Search,659177,True,3,3,1.2,2.8125,10,5.9996,Target detected at step 3.
+Beam Search,648565,True,70,70,34.0,32.5949,131,65.8344,Target detected at step 70.
+Beam Search,928464,True,50,50,25.2,27.5,105,54.287,Target detected at step 50.
+Beam Search,903566,True,50,50,25.4,17.5549,67,59.0779,Target detected at step 50.
+Beam Search,379202,False,,161,89.6,77.3585,314,220.8296,Battery at safety reserve. Mission terminated.
+Beam Search,605398,True,159,159,84.2,66.875,266,209.3022,Target detected at step 159.
+Beam Search,201630,False,,163,89.6,75.0779,295,207.9326,Battery at safety reserve. Mission terminated.
+Beam Search,738798,True,11,11,5.8,9.2063,33,10.3297,Target detected at step 11.
+Beam Search,72934,True,26,26,14.0,21.875,79,16.9479,Target detected at step 26.
+Beam Search,48051,True,81,81,41.6,45.1104,175,91.1897,Target detected at step 81.
+Beam Search,693385,True,138,138,74.8,59.8746,245,182.5699,Target detected at step 138.
+Beam Search,238969,False,,168,89.8,80.0,319,195.0046,Battery at safety reserve. Mission terminated.
+Beam Search,810621,True,90,90,48.8,45.3125,182,114.8033,Target detected at step 90.
+Beam Search,303446,True,117,117,63.6,58.75,238,144.5164,Target detected at step 117.
+Beam Search,83668,True,41,41,22.4,26.1682,101,52.3701,Target detected at step 41.
+Beam Search,896866,False,,169,89.4,69.375,278,217.5039,Battery would fall below 10% reserve. Halting.
+Beam Search,244099,True,1,1,0.4,1.8809,6,5.4559,Target detected at step 1.
+Beam Search,908574,True,121,121,62.8,58.4375,236,157.056,Target detected at step 121.
+Beam Search,105908,False,,166,89.4,74.2857,295,208.977,Battery would fall below 10% reserve. Halting.
+Beam Search,398592,False,,172,89.4,76.0125,298,209.2489,Battery would fall below 10% reserve. Halting.
+Beam Search,291477,True,3,3,1.2,2.8213,10,6.0987,Target detected at step 3.
+Beam Search,475436,True,126,126,62.8,53.4161,219,132.1196,Target detected at step 126.
+Beam Search,666564,True,129,129,69.0,68.5714,270,189.564,Target detected at step 129.
+Beam Search,874629,False,,176,89.8,72.4138,280,211.6073,Battery at safety reserve. Mission terminated.
+Beam Search,382555,True,62,62,33.2,36.25,147,89.0341,Target detected at step 62.
+Beam Search,170556,True,43,43,23.6,28.75,108,46.0089,Target detected at step 43.
+Beam Search,388163,True,53,53,27.4,36.25,138,71.1636,Target detected at step 53.
+Beam Search,372529,True,2,2,0.8,2.5157,8,5.7347,Target detected at step 2.
+Beam Search,219685,True,155,155,85.6,52.0249,205,198.9913,Target detected at step 155.
+Hill Climb,670488,False,,173,89.6,68.4375,270,346.1614,Battery at safety reserve. Mission terminated.
+Hill Climb,116740,True,1,1,0.4,1.8809,6,2.1531,Target detected at step 1.
+Hill Climb,26226,False,,179,89.6,73.125,297,382.3783,Battery at safety reserve. Mission terminated.
+Hill Climb,777573,True,53,53,25.0,31.875,122,131.6623,Target detected at step 53.
+Hill Climb,288390,True,58,58,28.4,33.8658,129,124.9342,Target detected at step 58.
+Hill Climb,256788,False,,181,89.8,77.1875,307,386.8359,Battery at safety reserve. Mission terminated.
+Hill Climb,234054,True,39,39,20.4,28.483,107,84.9585,Target detected at step 39.
+Hill Climb,146317,True,1,1,0.4,1.8868,6,1.8244,Target detected at step 1.
+Hill Climb,772247,True,138,138,70.2,70.3125,281,297.0158,Target detected at step 138.
+Hill Climb,107474,True,102,102,52.2,42.9907,166,233.6991,Target detected at step 102.
+Hill Climb,709571,False,,180,89.6,76.7081,308,388.3063,Battery at safety reserve. Mission terminated.
+Hill Climb,776647,True,70,70,35.2,34.2857,141,150.8638,Target detected at step 70.
+Hill Climb,935519,True,112,112,56.2,57.8616,224,252.5331,Target detected at step 112.
+Hill Climb,571859,True,54,54,27.4,30.9375,116,130.3573,Target detected at step 54.
+Hill Climb,91162,True,99,99,50.6,48.125,193,205.5699,Target detected at step 99.
+Hill Climb,619177,True,8,8,4.2,7.5,27,16.8113,Target detected at step 8.
+Hill Climb,442418,True,111,111,52.4,56.4669,224,239.9662,Target detected at step 111.
+Hill Climb,33327,True,42,42,19.6,28.2132,114,80.6308,Target detected at step 42.
+Hill Climb,31245,False,,190,89.2,65.2038,262,379.0136,No reachable unvisited cells remain.
+Hill Climb,98247,True,12,12,7.0,8.4639,35,24.523,Target detected at step 12.
+Hill Climb,229259,True,7,7,2.8,4.6875,16,17.1207,Target detected at step 7.
+Hill Climb,243963,False,,175,89.4,54.6875,220,400.2664,Battery would fall below 10% reserve. Halting.
+Hill Climb,529904,True,50,50,26.6,29.0625,115,95.3474,Target detected at step 50.
+Hill Climb,631263,True,74,74,38.0,34.4828,135,180.4664,Target detected at step 74.
+Hill Climb,27825,True,66,66,32.0,42.0063,160,189.8298,Target detected at step 66.
+Hill Climb,588509,False,,175,89.6,70.2532,277,363.7976,Battery at safety reserve. Mission terminated.
+Hill Climb,208497,True,18,18,10.0,10.9718,45,51.7417,Target detected at step 18.
+Hill Climb,750801,True,119,119,60.4,47.8125,187,271.0736,Target detected at step 119.
+Hill Climb,681454,True,43,43,18.4,23.4375,96,90.869,Target detected at step 43.
+Hill Climb,735393,True,24,24,13.4,12.1495,54,49.6143,Target detected at step 24.
+Hill Climb,571413,True,43,43,19.8,27.8997,107,105.4377,Target detected at step 43.
+Hill Climb,439899,True,75,75,37.4,42.5,156,162.804,Target detected at step 75.
+Hill Climb,231149,True,93,93,46.2,41.875,164,212.3216,Target detected at step 93.
+Hill Climb,471030,True,95,95,50.8,36.7925,159,226.3276,Target detected at step 95.
+Hill Climb,617890,True,7,7,3.8,4.4025,18,23.9169,Target detected at step 7.
+Hill Climb,291705,False,,185,89.8,80.5643,312,397.8763,Battery at safety reserve. Mission terminated.
+Hill Climb,848750,False,,185,89.6,61.9048,245,423.7677,Battery at safety reserve. Mission terminated.
+Hill Climb,911528,False,,168,89.6,57.9937,233,376.7406,Battery at safety reserve. Mission terminated.
+Hill Climb,6815,False,,173,89.6,73.913,279,362.422,Battery at safety reserve. Mission terminated.
+Hill Climb,795668,True,183,183,88.4,62.5,244,401.6846,Target detected at step 183.
+Hill Climb,844963,False,,177,89.8,75.3125,301,360.5852,Battery at safety reserve. Mission terminated.
+Hill Climb,167415,True,105,105,54.0,50.3106,199,238.2326,Target detected at step 105.
+Hill Climb,732053,True,92,92,45.8,41.6928,160,235.9166,Target detected at step 92.
+Hill Climb,443144,True,116,116,57.4,46.5625,189,248.4578,Target detected at step 116.
+Hill Climb,356779,True,106,106,54.2,51.5723,208,260.6535,Target detected at step 106.
+Hill Climb,291370,False,,175,89.6,64.7249,248,381.8501,Battery at safety reserve. Mission terminated.
+Hill Climb,163033,True,60,60,30.6,31.1321,126,123.7124,Target detected at step 60.
+Hill Climb,225773,True,156,156,78.6,66.5625,266,357.8631,Target detected at step 156.
+Hill Climb,800582,True,82,82,40.0,44.9686,178,187.7447,Target detected at step 82.
+Hill Climb,352945,True,33,33,16.4,23.8994,91,68.5154,Target detected at step 33.
+Hill Climb,107176,True,134,134,64.2,61.3208,239,304.8925,Target detected at step 134.
+Hill Climb,97252,False,,168,89.6,57.8616,235,342.7966,Battery at safety reserve. Mission terminated.
+Hill Climb,398383,False,,176,89.8,68.9873,281,355.0881,Battery at safety reserve. Mission terminated.
+Hill Climb,101415,True,134,134,69.6,54.6667,212,264.3573,Target detected at step 134.
+Hill Climb,376418,False,,177,89.6,66.0377,259,394.3989,Battery at safety reserve. Mission terminated.
+Hill Climb,888663,True,123,123,63.2,52.9781,213,282.6773,Target detected at step 123.
+Hill Climb,360664,False,,180,89.8,58.75,238,374.4833,Battery at safety reserve. Mission terminated.
+Hill Climb,633053,True,72,72,36.8,47.9751,187,205.7639,Target detected at step 72.
+Hill Climb,277371,False,,166,89.6,56.25,230,359.7313,Battery at safety reserve. Mission terminated.
+Hill Climb,846336,True,8,8,3.2,5.6075,18,18.5151,Target detected at step 8.
+Hill Climb,45562,False,,175,89.2,45.4829,189,363.1048,No reachable unvisited cells remain.
+Hill Climb,765180,True,22,22,10.6,11.746,46,69.557,Target detected at step 22.
+Hill Climb,481742,False,,175,89.6,82.1429,318,353.0137,Battery at safety reserve. Mission terminated.
+Hill Climb,562276,True,39,39,19.6,24.2138,99,81.6181,Target detected at step 39.
+Hill Climb,130890,False,,182,89.6,67.9128,271,402.9838,Battery at safety reserve. Mission terminated.
+Hill Climb,967097,False,,167,89.6,62.5,245,360.8339,Battery at safety reserve. Mission terminated.
+Hill Climb,396923,True,86,86,40.6,27.2152,112,198.9151,Target detected at step 86.
+Hill Climb,82628,False,,179,89.4,78.2609,313,381.7844,Battery would fall below 10% reserve. Halting.
+Hill Climb,578857,True,27,27,14.2,19.375,76,67.5509,Target detected at step 27.
+Hill Climb,307420,True,6,6,3.0,2.4845,12,18.1641,Target detected at step 6.
+Hill Climb,869694,True,48,48,25.6,23.3645,92,105.454,Target detected at step 48.
+Hill Climb,659177,True,5,5,2.4,3.4375,13,10.2411,Target detected at step 5.
+Hill Climb,648565,True,29,29,14.0,20.8861,78,66.3785,Target detected at step 29.
+Hill Climb,928464,False,,177,89.4,67.1875,270,398.5624,Battery would fall below 10% reserve. Halting.
+Hill Climb,903566,False,,171,89.6,71.7868,289,392.9116,Battery at safety reserve. Mission terminated.
+Hill Climb,379202,True,46,46,23.2,29.8742,119,118.7192,Target detected at step 46.
+Hill Climb,605398,False,,177,89.6,76.5625,301,375.7161,Battery at safety reserve. Mission terminated.
+Hill Climb,201630,True,26,26,11.8,14.0187,54,63.1196,Target detected at step 26.
+Hill Climb,738798,False,,181,87.0,58.7302,233,406.2369,No reachable unvisited cells remain.
+Hill Climb,72934,True,153,153,83.4,62.1875,252,344.7916,Target detected at step 153.
+Hill Climb,48051,True,71,71,33.6,32.1767,124,164.6325,Target detected at step 71.
+Hill Climb,693385,True,26,26,13.6,15.9875,71,52.6182,Target detected at step 26.
+Hill Climb,238969,True,6,6,2.8,6.25,21,21.8776,Target detected at step 6.
+Hill Climb,810621,False,,176,89.8,65.3125,258,417.4466,Battery at safety reserve. Mission terminated.
+Hill Climb,303446,True,44,44,24.0,29.0625,118,91.4268,Target detected at step 44.
+Hill Climb,83668,True,141,141,73.2,41.7445,171,298.9351,Target detected at step 141.
+Hill Climb,896866,False,,173,89.8,58.125,237,357.2334,Battery at safety reserve. Mission terminated.
+Hill Climb,244099,True,1,1,0.4,1.8809,6,2.1031,Target detected at step 1.
+Hill Climb,908574,True,38,38,18.0,15.9375,64,86.896,Target detected at step 38.
+Hill Climb,105908,True,6,6,2.4,4.4444,14,14.0808,Target detected at step 6.
+Hill Climb,398592,True,64,64,32.0,41.7445,165,139.4188,Target detected at step 64.
+Hill Climb,291477,True,3,3,1.2,2.8213,10,7.4881,Target detected at step 3.
+Hill Climb,475436,True,133,133,67.8,47.5155,193,270.7054,Target detected at step 133.
+Hill Climb,666564,True,59,59,28.2,30.1587,117,130.6846,Target detected at step 59.
+Hill Climb,874629,False,,181,89.6,75.2351,301,400.8464,Battery at safety reserve. Mission terminated.
+Hill Climb,382555,True,96,96,51.0,47.5,188,212.4847,Target detected at step 96.
+Hill Climb,170556,True,70,70,34.6,36.25,149,150.3285,Target detected at step 70.
+Hill Climb,388163,True,123,123,59.2,52.5,210,259.5474,Target detected at step 123.
+Hill Climb,372529,True,4,4,2.2,3.4591,15,10.0055,Target detected at step 4.
+Hill Climb,219685,True,148,148,73.6,61.0592,237,345.0732,Target detected at step 148.
+A* Belief,670488,True,122,122,66.4,61.875,262,275.2898,Target detected at step 122.
+A* Belief,116740,True,1,1,0.4,1.8809,6,13.7046,Target detected at step 1.
+A* Belief,26226,True,77,77,42.4,42.8125,166,317.2723,Target detected at step 77.
+A* Belief,777573,False,,164,89.8,66.25,270,403.4861,Battery at safety reserve. Mission terminated.
+A* Belief,288390,True,59,59,31.6,36.4217,141,144.7976,Target detected at step 59.
+A* Belief,256788,False,,166,89.6,75.3125,300,429.3683,Battery at safety reserve. Mission terminated.
+A* Belief,234054,False,,160,89.6,79.257,320,389.6017,Battery at safety reserve. Mission terminated.
+A* Belief,146317,True,1,1,0.4,1.8868,6,19.2582,Target detected at step 1.
+A* Belief,772247,True,14,14,7.2,9.6875,39,48.704,Target detected at step 14.
+A* Belief,107474,True,54,54,30.8,31.4642,124,142.2603,Target detected at step 54.
+A* Belief,709571,True,33,33,17.8,19.8758,76,148.356,Target detected at step 33.
+A* Belief,776647,True,32,32,18.2,21.5873,87,111.909,Target detected at step 32.
+A* Belief,935519,True,95,95,53.8,53.4591,210,323.6893,Target detected at step 95.
+A* Belief,571859,True,82,82,43.0,44.0625,184,252.668,Target detected at step 82.
+A* Belief,91162,False,,166,89.4,80.625,318,425.0883,Battery would fall below 10% reserve. Halting.
+A* Belief,619177,False,,163,89.2,80.625,317,492.886,No reachable unvisited cells remain.
+A* Belief,442418,True,55,55,29.2,32.4921,136,143.7302,Target detected at step 55.
+A* Belief,33327,True,56,56,30.6,34.7962,138,168.9914,Target detected at step 56.
+A* Belief,31245,False,,166,89.4,79.9373,322,465.4844,Battery would fall below 10% reserve. Halting.
+A* Belief,98247,True,40,40,23.0,18.8088,77,87.2249,Target detected at step 40.
+A* Belief,229259,True,15,15,7.2,7.5,30,31.4169,Target detected at step 15.
+A* Belief,243963,False,,164,89.6,66.5625,270,407.6526,Battery at safety reserve. Mission terminated.
+A* Belief,529904,True,158,158,84.0,75.0,301,291.6592,Target detected at step 158.
+A* Belief,631263,True,73,73,38.8,37.6176,145,177.8002,Target detected at step 73.
+A* Belief,27825,True,101,101,54.4,53.605,215,325.7209,Target detected at step 101.
+A* Belief,588509,True,157,157,84.4,83.2278,326,358.259,Target detected at step 157.
+A* Belief,208497,True,98,98,53.8,52.0376,208,252.7289,Target detected at step 98.
+A* Belief,750801,False,,156,89.8,66.25,272,388.6289,Battery at safety reserve. Mission terminated.
+A* Belief,681454,True,161,161,86.2,78.75,312,389.9297,Target detected at step 161.
+A* Belief,735393,True,107,107,59.2,60.1246,250,273.6901,Target detected at step 107.
+A* Belief,571413,True,113,113,64.8,57.0533,229,259.8243,Target detected at step 113.
+A* Belief,439899,True,81,81,45.4,41.875,176,217.947,Target detected at step 81.
+A* Belief,231149,False,,167,89.8,74.6875,306,391.6003,Battery at safety reserve. Mission terminated.
+A* Belief,471030,True,39,39,21.6,23.2704,95,117.1839,Target detected at step 39.
+A* Belief,617890,True,5,5,2.6,3.7736,14,19.2138,Target detected at step 5.
+A* Belief,291705,True,96,96,51.2,49.8433,201,253.3165,Target detected at step 96.
+A* Belief,848750,True,124,124,66.6,62.8571,250,315.8793,Target detected at step 124.
+A* Belief,911528,True,140,140,78.6,80.8777,318,337.7641,Target detected at step 140.
+A* Belief,6815,True,14,14,7.4,10.2484,41,37.8288,Target detected at step 14.
+A* Belief,795668,True,107,107,55.6,54.0625,219,259.7005,Target detected at step 107.
+A* Belief,844963,True,136,136,71.4,69.0625,273,321.8623,Target detected at step 136.
+A* Belief,167415,False,,167,89.8,75.1553,299,488.5409,Battery at safety reserve. Mission terminated.
+A* Belief,732053,True,104,104,55.8,53.9185,215,299.082,Target detected at step 104.
+A* Belief,443144,False,,168,89.6,70.625,287,583.9286,Battery at safety reserve. Mission terminated.
+A* Belief,356779,True,40,40,22.2,22.0126,94,111.8898,Target detected at step 40.
+A* Belief,291370,True,108,108,58.0,58.8997,229,361.9116,Target detected at step 108.
+A* Belief,163033,True,46,46,23.2,32.7044,126,121.0538,Target detected at step 46.
+A* Belief,225773,True,129,129,71.8,67.5,277,336.5182,Target detected at step 129.
+A* Belief,800582,True,142,142,74.0,62.2642,248,334.2584,Target detected at step 142.
+A* Belief,352945,True,24,24,13.4,14.7799,58,79.6998,Target detected at step 24.
+A* Belief,107176,True,40,40,21.6,25.1572,100,88.404,Target detected at step 40.
+A* Belief,97252,False,,163,89.4,78.3019,312,408.6762,Battery would fall below 10% reserve. Halting.
+A* Belief,398383,False,,171,89.4,81.0127,324,404.5218,Battery would fall below 10% reserve. Halting.
+A* Belief,101415,True,100,100,54.6,66.0,253,240.4444,Target detected at step 100.
+A* Belief,376418,True,68,68,36.8,43.0818,173,184.5621,Target detected at step 68.
+A* Belief,888663,True,39,39,21.0,23.8245,100,102.1317,Target detected at step 39.
+A* Belief,360664,True,160,160,84.8,76.5625,305,350.5024,Target detected at step 160.
+A* Belief,633053,True,82,82,43.2,42.6791,170,233.0955,Target detected at step 82.
+A* Belief,277371,True,9,9,4.8,6.875,27,21.3602,Target detected at step 9.
+A* Belief,846336,False,,166,89.6,82.866,329,351.7821,Battery at safety reserve. Mission terminated.
+A* Belief,45562,True,58,58,30.0,27.4143,112,112.5424,Target detected at step 58.
+A* Belief,765180,True,33,33,15.8,15.873,66,61.1724,Target detected at step 33.
+A* Belief,481742,True,72,72,36.6,46.4286,177,144.9827,Target detected at step 72.
+A* Belief,562276,True,140,140,74.2,66.3522,266,315.8361,Target detected at step 140.
+A* Belief,130890,True,104,104,54.8,54.5171,219,230.6579,Target detected at step 104.
+A* Belief,967097,True,19,19,11.0,12.1875,47,79.1534,Target detected at step 19.
+A* Belief,396923,True,102,102,54.6,50.0,193,213.9397,Target detected at step 102.
+A* Belief,82628,False,,159,89.6,61.1801,256,331.9763,Battery at safety reserve. Mission terminated.
+A* Belief,578857,False,,166,89.6,81.5625,336,496.9293,Battery at safety reserve. Mission terminated.
+A* Belief,307420,True,2,2,0.8,2.1739,8,11.0638,Target detected at step 2.
+A* Belief,869694,True,87,87,46.0,52.3364,210,205.501,Target detected at step 87.
+A* Belief,659177,True,12,12,7.0,7.1875,29,39.8468,Target detected at step 12.
+A* Belief,648565,True,142,142,77.8,73.1013,294,323.1459,Target detected at step 142.
+A* Belief,928464,True,121,121,68.0,68.75,275,327.5415,Target detected at step 121.
+A* Belief,903566,False,,166,89.6,87.4608,347,414.378,Battery at safety reserve. Mission terminated.
+A* Belief,379202,False,,160,89.4,74.2138,296,359.637,Battery would fall below 10% reserve. Halting.
+A* Belief,605398,True,142,142,78.6,71.875,286,337.1342,Target detected at step 142.
+A* Belief,201630,True,149,149,79.8,83.4891,330,371.5657,Target detected at step 149.
+A* Belief,738798,True,63,63,33.8,31.1111,123,172.6653,Target detected at step 63.
+A* Belief,72934,True,112,112,62.2,60.625,240,273.7741,Target detected at step 112.
+A* Belief,48051,True,80,80,44.2,47.3186,185,207.5818,Target detected at step 80.
+A* Belief,693385,True,77,77,44.0,44.2006,179,202.8828,Target detected at step 77.
+A* Belief,238969,True,9,9,5.0,8.75,30,33.5587,Target detected at step 9.
+A* Belief,810621,True,64,64,36.6,34.6875,135,121.2721,Target detected at step 64.
+A* Belief,303446,True,145,145,77.8,69.0625,284,365.3229,Target detected at step 145.
+A* Belief,83668,True,75,75,41.6,38.0062,158,196.4699,Target detected at step 75.
+A* Belief,896866,True,99,99,53.8,58.4375,229,283.3124,Target detected at step 99.
+A* Belief,244099,True,1,1,0.4,1.8809,6,9.0531,Target detected at step 1.
+A* Belief,908574,True,22,22,11.4,14.375,59,75.1184,Target detected at step 22.
+A* Belief,105908,False,,167,89.8,74.6032,305,398.9892,Battery at safety reserve. Mission terminated.
+A* Belief,398592,True,77,77,40.8,43.9252,172,249.3895,Target detected at step 77.
+A* Belief,291477,True,3,3,1.2,2.8213,10,16.0086,Target detected at step 3.
+A* Belief,475436,True,20,20,11.2,12.4224,46,81.8888,Target detected at step 20.
+A* Belief,666564,True,88,88,48.4,51.746,196,239.3459,Target detected at step 88.
+A* Belief,874629,True,12,12,6.6,9.4044,38,34.6984,Target detected at step 12.
+A* Belief,382555,True,88,88,48.6,50.3125,204,208.9835,Target detected at step 88.
+A* Belief,170556,False,,172,89.4,80.3125,315,402.6882,No reachable unvisited cells remain.
+A* Belief,388163,True,129,129,69.2,64.0625,260,299.0097,Target detected at step 129.
+A* Belief,372529,True,2,2,0.8,2.5157,8,14.3189,Target detected at step 2.
+A* Belief,219685,True,63,63,34.6,43.6137,173,183.5908,Target detected at step 63.
+Genetic Alg,670488,True,73,73,40.6,41.25,156,76.9506,Target detected at step 73.
+Genetic Alg,116740,True,1,1,0.4,1.8809,6,3.0098,Target detected at step 1.
+Genetic Alg,26226,True,164,164,87.4,73.75,298,118.4894,Target detected at step 164.
+Genetic Alg,777573,True,146,146,77.4,70.9375,288,129.7173,Target detected at step 146.
+Genetic Alg,288390,True,56,56,26.8,30.0319,115,33.9171,Target detected at step 56.
+Genetic Alg,256788,True,147,147,80.4,71.5625,281,109.4651,Target detected at step 147.
+Genetic Alg,234054,False,,167,89.4,67.4923,279,109.0534,Battery would fall below 10% reserve. Halting.
+Genetic Alg,146317,True,1,1,0.4,1.8868,6,3.1462,Target detected at step 1.
+Genetic Alg,772247,True,6,6,2.6,5.3125,19,4.4596,Target detected at step 6.
+Genetic Alg,107474,True,50,50,27.8,33.0218,130,31.9266,Target detected at step 50.
+Genetic Alg,709571,True,24,24,11.8,17.0807,64,15.1574,Target detected at step 24.
+Genetic Alg,776647,False,,172,89.6,74.9206,304,126.3496,Battery at safety reserve. Mission terminated.
+Genetic Alg,935519,True,48,48,25.6,31.761,125,34.5143,Target detected at step 48.
+Genetic Alg,571859,True,80,80,41.4,48.75,201,114.2706,Target detected at step 80.
+Genetic Alg,91162,True,162,162,87.2,73.75,294,211.3933,Target detected at step 162.
+Genetic Alg,619177,True,8,8,3.8,6.875,24,5.9507,Target detected at step 8.
+Genetic Alg,442418,True,73,73,37.8,45.7413,178,64.2449,Target detected at step 73.
+Genetic Alg,33327,True,52,52,25.8,35.1097,137,31.2652,Target detected at step 52.
+Genetic Alg,31245,True,163,163,84.6,68.3386,276,124.8335,Target detected at step 163.
+Genetic Alg,98247,False,,168,89.4,73.0408,296,115.8046,Battery would fall below 10% reserve. Halting.
+Genetic Alg,229259,True,126,126,66.6,61.25,242,93.7006,Target detected at step 126.
+Genetic Alg,243963,True,38,38,20.8,28.125,109,30.2322,Target detected at step 38.
+Genetic Alg,529904,False,,164,89.8,68.125,274,126.5621,Battery at safety reserve. Mission terminated.
+Genetic Alg,631263,True,51,51,27.8,31.9749,129,35.346,Target detected at step 51.
+Genetic Alg,27825,True,93,93,49.6,46.395,185,79.9454,Target detected at step 93.
+Genetic Alg,588509,True,117,117,63.8,63.6076,252,83.6254,Target detected at step 117.
+Genetic Alg,208497,True,13,13,6.6,10.3448,39,7.3109,Target detected at step 13.
+Genetic Alg,750801,True,103,103,56.6,59.0625,231,78.5669,Target detected at step 103.
+Genetic Alg,681454,False,,180,89.6,76.25,305,125.3179,Battery at safety reserve. Mission terminated.
+Genetic Alg,735393,False,,169,89.4,70.405,279,117.0648,Battery would fall below 10% reserve. Halting.
+Genetic Alg,571413,False,,171,89.6,79.3103,318,155.2862,Battery at safety reserve. Mission terminated.
+Genetic Alg,439899,False,,176,89.4,79.0625,307,125.3806,Battery would fall below 10% reserve. Halting.
+Genetic Alg,231149,False,,171,89.6,58.4375,237,109.261,Battery at safety reserve. Mission terminated.
+Genetic Alg,471030,True,113,113,60.8,57.2327,220,82.9695,Target detected at step 113.
+Genetic Alg,617890,True,5,5,2.6,3.7736,14,4.1924,Target detected at step 5.
+Genetic Alg,291705,True,70,70,36.8,43.5737,176,51.1327,Target detected at step 70.
+Genetic Alg,848750,False,,168,89.8,65.7143,263,107.5741,Battery at safety reserve. Mission terminated.
+Genetic Alg,911528,True,39,39,19.8,26.0188,102,24.9235,Target detected at step 39.
+Genetic Alg,6815,True,135,135,73.4,62.4224,245,100.4992,Target detected at step 135.
+Genetic Alg,795668,True,44,44,23.4,29.6875,123,29.4327,Target detected at step 44.
+Genetic Alg,844963,True,78,78,41.4,46.5625,189,55.1916,Target detected at step 78.
+Genetic Alg,167415,True,7,7,2.8,5.5901,21,5.1994,Target detected at step 7.
+Genetic Alg,732053,True,128,128,72.6,59.8746,246,77.676,Target detected at step 128.
+Genetic Alg,443144,True,99,99,53.6,37.8125,158,77.9679,Target detected at step 99.
+Genetic Alg,356779,True,86,86,44.8,61.3208,236,63.0825,Target detected at step 86.
+Genetic Alg,291370,True,134,134,71.0,65.6958,242,86.1349,Target detected at step 134.
+Genetic Alg,163033,True,166,166,85.8,81.761,327,147.7088,Target detected at step 166.
+Genetic Alg,225773,True,50,50,24.6,29.0625,115,36.4737,Target detected at step 50.
+Genetic Alg,800582,True,35,35,20.4,23.8994,103,20.4916,Target detected at step 35.
+Genetic Alg,352945,True,115,115,63.0,56.6038,229,84.3301,Target detected at step 115.
+Genetic Alg,107176,True,45,45,23.8,31.1321,117,41.2389,Target detected at step 45.
+Genetic Alg,97252,False,,173,89.8,73.8994,294,120.3827,Battery at safety reserve. Mission terminated.
+Genetic Alg,398383,False,,173,89.8,75.9494,304,113.4327,Battery at safety reserve. Mission terminated.
+Genetic Alg,101415,False,,177,89.6,81.6667,307,136.7803,Battery at safety reserve. Mission terminated.
+Genetic Alg,376418,True,25,25,12.4,19.8113,68,17.4774,Target detected at step 25.
+Genetic Alg,888663,True,125,125,64.4,58.9342,241,78.7482,Target detected at step 125.
+Genetic Alg,360664,True,77,77,38.4,38.75,148,67.8554,Target detected at step 77.
+Genetic Alg,633053,True,13,13,6.6,9.3458,39,7.5117,Target detected at step 13.
+Genetic Alg,277371,True,6,6,3.4,5.3125,21,4.6301,Target detected at step 6.
+Genetic Alg,846336,False,,169,89.8,80.3738,320,145.0067,Battery at safety reserve. Mission terminated.
+Genetic Alg,45562,False,,162,89.6,68.5358,276,119.4788,Battery at safety reserve. Mission terminated.
+Genetic Alg,765180,True,111,111,60.4,53.3333,210,92.6484,Target detected at step 111.
+Genetic Alg,481742,True,165,165,86.6,69.1558,274,122.7222,Target detected at step 165.
+Genetic Alg,562276,True,64,64,34.2,35.2201,140,60.9478,Target detected at step 64.
+Genetic Alg,130890,True,65,65,35.2,38.9408,156,37.4031,Target detected at step 65.
+Genetic Alg,967097,True,130,130,69.8,69.375,275,102.129,Target detected at step 130.
+Genetic Alg,396923,True,123,123,65.8,53.1646,209,97.7414,Target detected at step 123.
+Genetic Alg,82628,True,163,163,87.0,68.9441,278,100.3793,Target detected at step 163.
+Genetic Alg,578857,True,42,42,20.8,33.4375,127,22.363,Target detected at step 42.
+Genetic Alg,307420,True,2,2,0.8,2.1739,8,3.3203,Target detected at step 2.
+Genetic Alg,869694,True,108,108,57.0,57.6324,237,68.9987,Target detected at step 108.
+Genetic Alg,659177,True,3,3,1.2,2.8125,10,7.3281,Target detected at step 3.
+Genetic Alg,648565,True,117,117,62.6,62.3418,244,82.9419,Target detected at step 117.
+Genetic Alg,928464,True,71,71,35.8,32.8125,127,40.9157,Target detected at step 71.
+Genetic Alg,903566,True,115,115,60.6,56.1129,229,83.3434,Target detected at step 115.
+Genetic Alg,379202,True,133,133,72.4,66.3522,259,110.4596,Target detected at step 133.
+Genetic Alg,605398,True,129,129,68.2,46.875,194,77.3233,Target detected at step 129.
+Genetic Alg,201630,False,,166,89.6,79.1277,313,120.5611,Battery at safety reserve. Mission terminated.
+Genetic Alg,738798,True,11,11,5.8,9.2063,33,6.0727,Target detected at step 11.
+Genetic Alg,72934,True,26,26,14.0,20.9375,79,17.1906,Target detected at step 26.
+Genetic Alg,48051,True,16,16,8.0,12.3028,50,7.8043,Target detected at step 16.
+Genetic Alg,693385,True,64,64,35.2,43.2602,177,44.51,Target detected at step 64.
+Genetic Alg,238969,False,,168,89.8,64.375,260,102.185,Battery at safety reserve. Mission terminated.
+Genetic Alg,810621,True,63,63,33.4,37.5,153,40.7404,Target detected at step 63.
+Genetic Alg,303446,True,123,123,64.8,48.125,197,99.3152,Target detected at step 123.
+Genetic Alg,83668,True,38,38,21.2,26.4798,102,24.3726,Target detected at step 38.
+Genetic Alg,896866,False,,167,89.8,80.9375,324,130.1749,Battery at safety reserve. Mission terminated.
+Genetic Alg,244099,True,1,1,0.4,1.8809,6,3.4042,Target detected at step 1.
+Genetic Alg,908574,True,108,108,57.0,51.875,209,84.3889,Target detected at step 108.
+Genetic Alg,105908,False,,170,89.8,77.1429,302,125.2043,Battery at safety reserve. Mission terminated.
+Genetic Alg,398592,True,161,161,86.0,75.3894,295,121.3681,Target detected at step 161.
+Genetic Alg,291477,True,3,3,1.2,2.8213,10,4.629,Target detected at step 3.
+Genetic Alg,475436,True,78,78,40.8,46.2733,185,54.0535,Target detected at step 78.
+Genetic Alg,666564,True,84,84,46.8,56.1905,217,61.0482,Target detected at step 84.
+Genetic Alg,874629,True,130,130,70.6,58.9342,244,90.0842,Target detected at step 130.
+Genetic Alg,382555,True,42,42,21.6,29.0625,118,24.0053,Target detected at step 42.
+Genetic Alg,170556,True,32,32,16.8,25.9375,94,21.7164,Target detected at step 32.
+Genetic Alg,388163,True,50,50,25.6,33.125,136,33.7239,Target detected at step 50.
+Genetic Alg,372529,True,2,2,0.8,2.5157,8,3.9232,Target detected at step 2.
+Genetic Alg,219685,True,136,136,71.4,58.8785,234,88.0382,Target detected at step 136.
